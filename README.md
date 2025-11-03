@@ -1,4 +1,4 @@
-<img width="1136" height="516" alt="ADIDAS Profit Dashboard" src="https://github.com/user-attachments/assets/593901ae-fb2e-4cc6-9652-86c17143970b" /># Adidas_Financial_Analysis
+
 This project does a deep dive into the major drivers of sales and profit at adidas for the years 2021 and 2022.
 Technical Report: Adidas U.S. Performance Analysis (2021-2022)
 Author: Saliu Victor Date: November 1, 2025
@@ -75,10 +75,14 @@ o	Line Charts: To show Monthly Sales and Profit Trends.
 o	Bar Charts: For "Sales by States (Top 5)" and "Profit by Retailer."
 o	Donut Charts: For "Sales by Region," "Profit by Region," "Profit by Sales Method," and "Sales by Product Type."
 •	Explanation of Visualizations: The "Profit by Retailer" bar chart, for example, clearly visualizes the outsized importance of West Gear and Foot Locker; their profit bars are more than double the next closest partner, Sports Direct. The "Monthly Sales Trend" line chart effectively displays the two key sales peaks in July and December.
-<img width="1136" height="516" alt="Adidas Sales Dashboard" src="https://github.com/user-attachments/assets/f7f22def-9061-4d45-84d0-737058619840" />
 
 
-<img width="1136" height="516" alt="ADIDAS Profit Dashboard" src="https://github.com/user-attachments/assets/e1eb2060-0047-4851-a9ca-eeb52ba4b1ee" />
+<img width="1202" height="509" alt="Adidas Sales Dashboard" src="https://github.com/user-attachments/assets/3175308e-3344-49ef-8050-ad061d9d62a9" />
+
+
+
+<img width="1200" height="509" alt="Adidas Profit Dashboard" src="https://github.com/user-attachments/assets/3d162788-27c9-44aa-aaa2-c6e5c99f98f4" />
+
 
 
 I. Recommendations and Observations
