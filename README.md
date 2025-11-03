@@ -1,4 +1,4 @@
-# Adidas_Financial_Analysis
+<img width="1136" height="516" alt="ADIDAS Profit Dashboard" src="https://github.com/user-attachments/assets/593901ae-fb2e-4cc6-9652-86c17143970b" /># Adidas_Financial_Analysis
 This project does a deep dive into the major drivers of sales and profit at adidas for the years 2021 and 2022.
 Technical Report: Adidas U.S. Performance Analysis (2021-2022)
 Author: Saliu Victor Date: November 1, 2025
@@ -75,14 +75,15 @@ o	Line Charts: To show Monthly Sales and Profit Trends.
 o	Bar Charts: For "Sales by States (Top 5)" and "Profit by Retailer."
 o	Donut Charts: For "Sales by Region," "Profit by Region," "Profit by Sales Method," and "Sales by Product Type."
 •	Explanation of Visualizations: The "Profit by Retailer" bar chart, for example, clearly visualizes the outsized importance of West Gear and Foot Locker; their profit bars are more than double the next closest partner, Sports Direct. The "Monthly Sales Trend" line chart effectively displays the two key sales peaks in July and December.
-  <img width="1136" height="516" alt="Adidas Sales Dashboard" src="https://github.com/user-attachments/assets/092c64b1-ee91-4d55-b4bf-51420a7b7e8a" />
+<img width="1136" height="516" alt="Adidas Sales Dashboard" src="https://github.com/user-attachments/assets/f7f22def-9061-4d45-84d0-737058619840" />
 
 
-<img width="1136" height="516" alt="ADIDAS Profit Dashboard" src="https://github.com/user-attachments/assets/2ca40e2b-6fc2-4c8d-a28e-2eca8232e094" />
+<img width="1136" height="516" alt="ADIDAS Profit Dashboard" src="https://github.com/user-attachments/assets/e1eb2060-0047-4851-a9ca-eeb52ba4b1ee" />
 
 
 I. Recommendations and Observations
 This section converts the analytical findings into actionable business recommendations.
+
 •	Actionable Insights:
 1.	Partner Strategy: Strengthen strategic partnerships with West Gear and Foot Locker. Consider joint marketing campaigns and ensure premium inventory allocation, as they are the primary profit drivers.
 2.	Channel Optimization: Investigate the Online channel's profitability. The fact it trails Outlets in profit (despite high sales potential) suggests high costs (e.g., shipping, returns, digital marketing). This area needs optimization.
